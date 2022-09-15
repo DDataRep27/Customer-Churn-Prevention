@@ -78,8 +78,6 @@ model = load(open('Tchurn_intelligence.pkl', 'rb'))
 #Predicting the model
 result = model.predict(df)
 
-st.empty()
-
 if st.button('Predict'):
     #st.balloons()
     st.header('Predicted Result:')
