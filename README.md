@@ -10,4 +10,4 @@
 
 **Successfully build the model, and deployed on streamlit-cloud**
 
-*Link to app:* https://ddatarep27-mushroom-class-prediction-deploy-vvgdbc.streamlitapp.com/
+*Link to app:* https://ddatarep27-customer-churn-prediction-deploy-gpoi2t.streamlitapp.com/
