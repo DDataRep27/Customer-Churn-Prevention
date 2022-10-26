@@ -7,6 +7,8 @@ from pickle import load
 import sklearn
 from PIL import Image
 
+#Web Page Configuration
+st.set_page_config(page_title=("DR Customer Churn"))
 
 #Title of web page
 st.title('Welcome to Customer Churn - Telecom Prediction')
