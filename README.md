@@ -3,6 +3,7 @@
 
 * Churn rate is a godsend for any subscription-based business. It’s used by telecom companies to see if enough people are using their phone services. If you want your subscription-based business to grow, the number of customers you get every month needs to be higher than the number of customers who churn.
 
+
 # Problem Statement
 **In this project, we will examine the data and create a machine learning algorithm that will detect if the customer would churn or not with the help of various features like 'Contract', 'InternetService', 'MultipleLines', 'TotalCharges' and 'tenure', etc. by using different classifiers.**
 
